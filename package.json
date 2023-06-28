@@ -1,0 +1,29 @@
+{
+  "name": "@verikono/conversive",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "type translations",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "fast-glob": "^3.2.12",
+    "graphql": "^16.7.1",
+    "typescript": "^5.1.5"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verikono/conversive.git"
+  },
+  "keywords": [
+    "types"
+  ],
+  "author": "Bren Norris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/verikono/conversive/issues"
+  },
+  "homepage": "https://github.com/verikono/conversive#readme"
+}
